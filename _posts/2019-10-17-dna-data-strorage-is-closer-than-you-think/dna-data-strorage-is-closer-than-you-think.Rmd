@@ -1,0 +1,32 @@
+---
+title: "DNA data strorage is closer than you think"
+description: |
+  A short description of the post.
+author:
+  - name: Vanneste Justin  
+    url: {https://www.scientificamerican.com/article/dna-data-storage-is-closer-than-you-think/}
+date: 10-17-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Vocalulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| storage             | retention,preservation         |
+| handle              | manage                         |
+| conducted           | managed                        |
+| assuming            | supposing                      |
+| hold                | support,grasp                  |
+| further             | greater distance               |
+| amount              | quantity of something          |
+| routinely           | regularly                      |
+| accurately          | precisely                      |
+| ease                | absence of difficulty          |
+
