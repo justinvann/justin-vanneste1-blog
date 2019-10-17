@@ -2,3 +2,6 @@
 title: "About me"
 ---
 Vanneste Justin
+teacher: Nicolas Devilez
+group: n°4
+student in bac 2 biology
