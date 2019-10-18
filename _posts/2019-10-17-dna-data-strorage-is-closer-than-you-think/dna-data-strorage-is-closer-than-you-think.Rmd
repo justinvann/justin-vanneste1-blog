@@ -4,7 +4,7 @@ description: |
   A short description of the post.
 author:
   - name: Vanneste Justin  
-    url: {https://www.scientificamerican.com/article/dna-data-storage-is-closer-than-you-think/}
+    url: {https//www.scientificamerican.com/article/dna-data-storage-is-closer-than-you-think/}
 date: 10-17-2019
 output:
   distill::distill_article:
@@ -29,4 +29,5 @@ knitr::opts_chunk$set(echo = FALSE)
 | routinely           | regularly                      |
 | accurately          | precisely                      |
 | ease                | absence of difficulty          |
+| 
 
