@@ -1,7 +1,7 @@
 ---
 title: "DNA data strorage is closer than you think"
 description: |
-  A short description of the post.
+  the possible uses of DNA storage in the futur
 author:
   - name: Vanneste Justin  
     url: {https//www.scientificamerican.com/article/dna-data-storage-is-closer-than-you-think/}
@@ -20,16 +20,38 @@ article: {https://www.scientificamerican.com/article/dna-data-storage-is-closer-
 ## Vocalulary 
 
 | Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| storage             | retention,preservation         |
-| handle              | manage                         |
-| conducted           | managed                        |
-| assuming            | supposing                      |
-| hold                | support,grasp                  |
-| further             | greater distance               |
-| amount              | quantity of something          |
-| routinely           | regularly                      |
-| accurately          | precisely                      |
-| ease                | absence of difficulty          |
-| 
+| ------------------- | ------------------------------- |
+| storage             | retention,preservation          |
+| handle              | manage                          |
+| conducted           | managed                         |
+| assuming            | supposing                       |
+| hold                | support,grasp                   |
+| further             | greater distance                |
+| amount              | quantity of something           |
+| routinely           | regularly                       |
+| accurately          | precisely                       |
+| ease                | absence of difficulty           |
+| shines              | perform,                        |
+| stow                | pack,store                      |
+| device              | thing made for a particular purpose     |
+| prospect            | perspective                     |
+| merely              | only,just                       |
+| instance            | exemple                         |
+| advance             | make progress                   |
+| grapple             | wrestle,fight                   |
+| tremendous          | huge                            |
+| track               | trace,mark                      |
+| pace                | rhythm                          |
+| field               | a particular branch             |
+| ubiquitous          | omnipresent                     |
 
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researcher                  | Sang Yup Lee, Professor of chemical and biomolecular engineering at the Korea Advanced Institute of Science and Technology                        |
+| Published in                 | July 1, 2019                                                       |
+| General topic                |  the possible futur uses of DNA storage and the different researches made until now on the subject   |
+| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
+| Conclusions                  |  DNA will maybe not be used for everything but, it's gonna be practical for stockage information      |
+| Remaining questions?         | (check if there are still interrogations at the end of the article) |
