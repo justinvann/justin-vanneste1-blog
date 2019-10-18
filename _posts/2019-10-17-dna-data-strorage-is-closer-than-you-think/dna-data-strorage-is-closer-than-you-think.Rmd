@@ -49,7 +49,8 @@ article: {https://www.scientificamerican.com/article/dna-data-storage-is-closer-
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researcher                  | Sang Yup Lee, Professor of chemical and biomolecular engineering at the Korea Advanced Institute of Science and Technology                        |
+| Title                        | DNA data strorage is closer than you think                          |
+| Author                       | Sang Yup Lee, Professor of chemical and biomolecular engineering at the Korea Advanced Institute of Science and Technology                        |
 | Published in                 | July 1, 2019                                                       |
 | General topic                |  the possible futur uses of DNA storage and the different researches made until now on the subject   |
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
