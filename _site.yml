@@ -14,5 +14,6 @@ navbar:
 base_url: http://justinvann.github.io/justin-vanneste1-blog/
 collections:
     posts:
+      disqus: justin-vanneste1-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article

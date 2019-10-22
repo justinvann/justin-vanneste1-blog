@@ -1,20 +1,5 @@
 [
   {
-    "path": "posts/2019-10-16-article-1/",
-    "title": "article-1",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      }
-    ],
-    "date": "2019-10-16",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-10-16T03:48:11+02:00"
-  },
-  {
     "path": "posts/2019-10-17-dna-data-strorage-is-closer-than-you-think/",
     "title": "DNA data strorage is closer than you think",
     "description": "the possible uses of DNA storage in the futur",
@@ -29,7 +14,22 @@
     "date": "2019-10-17",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-19T13:38:43+02:00"
+    "last_modified": "2019-10-19T13:38:45+02:00"
+  },
+  {
+    "path": "posts/2019-10-16-article-1/",
+    "title": "article-1",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nicolas Devilez",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-16",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-16T03:48:11+02:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
