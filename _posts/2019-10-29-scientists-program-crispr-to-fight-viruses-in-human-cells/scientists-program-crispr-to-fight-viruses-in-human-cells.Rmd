@@ -1,0 +1,44 @@
+---
+title: "Scientists Program CRISPR to Fight Viruses in Human Cells"
+description: |
+  
+author:
+  - name: Vanneste Justin
+    url: https://www.scientificamerican.com/article/scientists-program-crispr-to-fight-viruses-in-human-cells/
+date: 10-29-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+article: https://www.scientificamerican.com/article/scientists-program-crispr-to-fight-viruses-in-human-cells/
+
+## Vocalulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------- |
+| enhance | increase de quality |
+| fend | Defend oneself from an attack|
+| strand | arranged in single thin lengths twisted together |
+| kidney | Each of a pair of organs in the abdominal cavity |
+| lung | the organ you use to breathe |
+| chop | cut |
+| encounter | Unexpectedly be faced with |
+| bind | fasten tightly |
+| tool | implement |
+| 44 fold | 44 times |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Catherine Freije and Cameron Myhrvold and their colleagues          |
+| Published in                 | October 23, 2019                                                    |
+| General topic                | Developpement of a DNA sequences that will be able to target a precises virus and destroy it       |
+| Procedure/what was examined  | They tried the CRISPR on 3 différent viruses, they tried it with Cas13 instead of Cas9 which had already been analysed in other study |
+| Conclusions/discovery?       | They didn't find a way to target one virus and didn't try yet on animals, but they had proved that's really effective on several virus       |
+| Remaining questions?         | How to make it work on human, and make it aiming a specify virus ? |
