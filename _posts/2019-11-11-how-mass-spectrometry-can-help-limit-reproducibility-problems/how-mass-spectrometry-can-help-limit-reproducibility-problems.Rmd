@@ -1,0 +1,26 @@
+---
+title: "How Mass Spectrometry Can Help Limit Reproducibility Problems"
+description: |
+  A short description of the post.
+author:
+  - name: Vanneste Justin
+    url: https://www.scientificamerican.com/article/scientists-program-crispr-to-fight-viruses-in-human-cells/
+date: 11-11-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+article: https://blogs.scientificamerican.com/observations/how-mass-spectrometry-can-help-limit-reproducibility-problems/
+
+## Vocalulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------- |
+| improper            | incorrect |
+| discrepant          | surprising lack of compatibility |
+
