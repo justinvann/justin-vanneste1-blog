@@ -1,10 +1,10 @@
 ---
 title: "How Mass Spectrometry Can Help Limit Reproducibility Problems"
 description: |
-  A short description of the post.
+  the variable uses of MS
 author:
   - name: Vanneste Justin
-    url: https://www.scientificamerican.com/article/scientists-program-crispr-to-fight-viruses-in-human-cells/
+    url: 
 date: 11-11-2019
 output:
   distill::distill_article:
@@ -23,4 +23,23 @@ article: https://blogs.scientificamerican.com/observations/how-mass-spectrometry
 | ------------------- | ------------------------------- |
 | improper            | incorrect |
 | discrepant          | surprising lack of compatibility |
+| to yield            | produce |
+| overlapping         | 2 things which cross each other |
+| unveiled            | reveal |
+| to piece            | recover |
+| to ensure           | to assure |
+| to pinpoint         | to found with precision |
+| thus                | in consequence |
+| gaps                | scission/space |
+| staple              | major/primary |
 
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | María Rosales Gerpe and Jessica Barber who both work for Rapid Novor, Inc., the world leading company in antibody protein sequencing by mass spectrometry.                        |
+| Published in                 | November 8, 2019                                                       |
+| General topic                | This topic is about the différent uses of the mass spectrometry, especially with antibodies |
+| Procedure/what was examined  | The experimentators have used the mass spectrometry to obtein the sequence of proteins, for that they have utilized a tandem MS which can distingues proteins based on mass and charge of it |
+| Conclusions/discovery        |  In conclusion the MS-based protein sequencing will be really significant for commercial antibody verification      |

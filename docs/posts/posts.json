@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-11-how-mass-spectrometry-can-help-limit-reproducibility-problems/",
+    "title": "How Mass Spectrometry Can Help Limit Reproducibility Problems",
+    "description": "the variable uses of MS",
+    "author": [
+      {
+        "name": "Vanneste Justin",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-11",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-13T12:26:59+01:00"
+  },
+  {
     "path": "posts/2019-10-29-scientists-program-crispr-to-fight-viruses-in-human-cells/",
     "title": "Scientists Program CRISPR to Fight Viruses in Human Cells",
     "description": {},
