@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-11-25-genetic-discovery-holds-implications-for-better-immunity-longer-life/",
+    "title": "Genetic discovery holds implications for better immunity, longer life",
+    "description": "study of nematode cuticule",
+    "author": [
+      {
+        "name": "Vanneste Justin",
+        "url": {
+          "https//phys.org/news/2019-11-genetic-discovery-implications-immunity-longer.html": {}
+        }
+      }
+    ],
+    "date": "2019-11-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-28T02:35:44+01:00"
+  },
+  {
     "path": "posts/2019-11-11-how-mass-spectrometry-can-help-limit-reproducibility-problems/",
     "title": "How Mass Spectrometry Can Help Limit Reproducibility Problems",
     "description": "the variable uses of MS",
@@ -17,7 +34,7 @@
   {
     "path": "posts/2019-10-29-scientists-program-crispr-to-fight-viruses-in-human-cells/",
     "title": "Scientists Program CRISPR to Fight Viruses in Human Cells",
-    "description": {},
+    "description": "enzyme able to aim specific target",
     "author": [
       {
         "name": "Vanneste Justin",
@@ -27,7 +44,7 @@
     "date": "2019-10-29",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-29T18:40:04+01:00"
+    "last_modified": "2019-11-13T21:01:07+01:00"
   },
   {
     "path": "posts/2019-10-17-dna-data-strorage-is-closer-than-you-think/",
@@ -44,7 +61,7 @@
     "date": "2019-10-17",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-19T13:38:45+02:00"
+    "last_modified": "2019-11-13T20:55:09+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",

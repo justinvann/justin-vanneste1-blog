@@ -4,7 +4,7 @@ description: |
   study of nematode cuticule
 author:
   - name: Vanneste Justin
-    url: {}
+    url: {https://phys.org/news/2019-11-genetic-discovery-implications-immunity-longer.html}
 date: 11-25-2019
 output:
   distill::distill_article:
