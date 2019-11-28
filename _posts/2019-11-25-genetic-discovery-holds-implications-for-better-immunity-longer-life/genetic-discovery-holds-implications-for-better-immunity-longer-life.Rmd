@@ -1,7 +1,7 @@
 ---
 title: "Genetic discovery holds implications for better immunity, longer life"
 description: |
-  A short description of the post.
+  study of nematode cuticule
 author:
   - name: Vanneste Justin
     url: {}
