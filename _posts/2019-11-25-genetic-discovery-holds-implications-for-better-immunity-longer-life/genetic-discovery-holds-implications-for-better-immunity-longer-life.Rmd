@@ -1,0 +1,46 @@
+---
+title: "Genetic discovery holds implications for better immunity, longer life"
+description: |
+  A short description of the post.
+author:
+  - name: Vanneste Justin
+    url: {}
+date: 11-25-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+article: https://phys.org/news/2019-11-genetic-discovery-implications-immunity-longer.html
+
+## Vocalulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------- |
+| wrinkle | crease/fold |
+| soil | groud/floor |
+| sharing | parting |
+| holds | keep |
+| wicked | bad/evil |
+| strenghthening | fortify |
+| aging | growing old |
+| unsightly | ugly |
+| stif | rigid |
+| harmful | hurtful |
+| underkying | something hidden/unexpressed |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | postdoctoral researcher Durai Sellegounder, assisatnt professor Jingru Sun  |
+| Published in                | november 20, 2019      |
+| General topic               |  The study shows how work and how improve the defense of the cuticule of nematode      |
+| Procedure/what was examined | they examinated the immune system of nematode with gene silencing and CRISPR gene editing |
+| Conclusions/discovery       |  They discovered that the production of collagene as an important role in the immune system, mostly in defense of pathogen   |
+| Remaining questions         | Maybe the collagen could help in human longevity |
+
