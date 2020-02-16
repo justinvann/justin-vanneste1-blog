@@ -1,0 +1,45 @@
+---
+title: "Gene Therapy Arrives"
+description: |
+  A short description of the post.
+author:
+  - name: Vanneste Justin
+    url:
+      https//phys.org/news/2019-11-genetic-discovery-implications-immunity-longer.html: {}
+date: 02-15-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| disputed   | discuss heatedly                   |
+| pace           | rhythm         |
+| disorder   | trouble   |
+| stretches   | part   |
+| hinder   | stop/preclude   |
+| harmless   | inoffensive   |
+| occur   | happen   |
+| marrow   | pith/medula   |
+| stand   | sprig/wisp   |
+| panel   | jury   |
+|    |    |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Jim Daley                        |
+| Published in                | January 2020                                                       |
+| General topic               |  this article explain the basics of gene therapy and show some exemples of it                      |
+| Procedure/what was examined? | the article show the uses of gene therapy |
+| Conclusions/discovery       |  gene therapy is a new medecine which need to be developed with a lot of precaution and which need to be improved      |
+
+
