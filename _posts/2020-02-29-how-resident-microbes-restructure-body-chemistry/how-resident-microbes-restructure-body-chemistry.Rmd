@@ -1,0 +1,37 @@
+---
+title: "How resident microbes restructure body chemistry"
+description: |
+  A short description of the post.
+author:
+  - name: Vanneste Justin
+    url:
+      https//phys.org/news/2019-11-genetic-discovery-implications-immunity-longer.html: {}
+date: 02-29-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| throughout   | all the way through     |
+| sample       | specimen         |
+| bowel   | intestine     |
+| gut   | intestine     |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Pieter Dorrestein, PhD, professor and director of the Collaborative Mass Spectrometry Innovation Center in the Skaggs School of Pharmacy and Pharmaceutical Sciences at UC San Diego, and Robert Quinn, PhD, assistant professor at Michigan State University                        |
+| Published in                | 26 February 2020                                          |
+| General topic               |  some microbe can modified some genes expressions in mice and human                      |
+| Procedure/what was examined? | this article is about the modification microbes provoked into the body |
+| Conclusions/discovery?       |  microbe-modified bile acids reduce the expression of genes responsible for bile acid production in the liver       |
+| Remaining questions?         | they don't know the downstream consequence of it or how it could improve human health |

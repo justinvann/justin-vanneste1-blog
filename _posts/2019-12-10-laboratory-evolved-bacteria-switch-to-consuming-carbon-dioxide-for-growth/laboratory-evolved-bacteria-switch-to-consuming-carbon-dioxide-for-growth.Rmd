@@ -1,0 +1,60 @@
+---
+title: "Laboratory-evolved bacteria switch to consuming carbon dioxide for growth"
+description: |
+  change E. coli from heterotrophic to autotrophic organism
+author:
+  - name: Vanneste Justin
+    url:
+      https//phys.org/news/2019-11-genetic-discovery-implications-immunity-longer.html: {}
+date: 12-10-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+article: https://www.sciencedaily.com/releases/2019/11/191127161450.htm
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| strain   | stump/the "origin" cell                   |
+|  compound            | composite        |
+| framework   | an essential supporting structure  |
+| enhance  | improve  |
+| sustainable   | Able to be maintained at a certain rate or level   |
+| towards   | to   |
+| path   | way   |
+| widespread   |  distributed over a large area   |
+| sole   | unique/single   |
+| blueprint   | plan/map  |
+| rewiring   | provide with new electric wiring  |
+| wire  | cable |
+| harvest   | collect/crop  |
+| labeling  | tag/brand  |
+| i.e. | that is to say |
+| gut | intestine |
+| renowned | famous |
+| consumption | the using up of a resource |
+| scalability | The capacity to be changed in size or scale |
+| narrow | reduce |
+| feat | exploit |
+| thus | so |
+| yields | produce a natural, agricultural, or industrial product |
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Ron Milo senior author and systems biologist, Shumuel Gleizer first author and a postdoctoral                        |
+| Published in                | November 27, 2019                                                       |
+| General topic               |  this study shows the possibility to change an micro organism as E. coli in an autotrophic organism and the possibility of it for reduce carbon production                      |
+| Procedure/what was examined | In this research they put some E. coli in specific environment. they also did a lot of changement within the organism with metabolic rewiring and lab evolution. |
+| Conclusions/discovery       |  They discovered that change a micro organism from heterotrophic to autotrophic was not as hard as they thought. The study also shows the using of this to transform waste into compounds of interest and eventually increase yields in agriculture.      |
+
+
