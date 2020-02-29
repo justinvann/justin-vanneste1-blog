@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | throughout   | all the way through     |
 | sample       | specimen         |
 | bowel   | intestine     |
-| gut   | intestine     |
+| gut   | intestine      |
 
 ## Analysis table 
 
