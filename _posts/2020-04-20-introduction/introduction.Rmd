@@ -1,0 +1,19 @@
+---
+title: "introduction"
+description: |
+  A short description of the post.
+author:
+  - name: Vanneste Justin
+    url:
+      https//phys.org/news/2019-11-genetic-discovery-implications-immunity-longer.html: {}
+date: 04-20-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Introduction
+
+The subject I choosed is biotechnology. Biotechnology is the use of science and technology on living organism. This branche of science as al a lot of uses in a large number of different fields such as medicine, agriculture, industrial and so on. The goal of biotechnology is to find new tool for thoses branchs. The aticles I select are most of them about trying to develop particularities of certain microorganism and adapt for our using. This subject central aspect is the genetic modification in order to put the character of one organism in an other. In medicine biotechnology is uses to found new curre against deseases, to developp new medicine, and also to improve our immune system imself, etc. In agriculture it's use to accelerate the grow and the height and quality of the plant, it's also uses to make those plants more resistent at several environmental change like the temperature the pH or the need of water. In industries it's use toincrease the rendement but also to find a less pollutive to produce the needs of our modern society. So biotechnology is a very vast subject with the project of find how we could improve organism with our knowledge and technology.
+
+
