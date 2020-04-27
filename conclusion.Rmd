@@ -1,0 +1,7 @@
+---
+title: "Conclusion"
+author: "Justin Vanneste"
+date: "4/20/2020"
+output: html_document
+---
+In conclusion of this portfolio, I think I discovered the difficulties and the time needed by doing researchs. I also learned how large the possibilities in biotechnology are. I also realised the researchers put themselves into the unknow because they tried to discover things without knowing if their idea is the right or if it's even possible. Sometimes they found something absolutely different or even nothing on the worst case.In fact found something in science and confirm it to enable it for using are two very different things. Indeed it could take years for your research to be accepted because of all the verifications that are needed. Occasionally the reseachers needed more time that they fought it can get by month to years and still conclued with nothing. The researchers do their work to improve our lifes, and I think this is a really nice thing the do.
