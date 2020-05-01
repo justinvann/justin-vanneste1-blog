@@ -1,0 +1,23 @@
+---
+title: "table of contentt"
+description: |
+  
+author:
+  - name: Vanneste Justin
+    url:
+      https//phys.org/news/2019-11-genetic-discovery-implications-immunity-longer.html: {}
+date: 05-01-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+1. Introduction
+2. DNA data storage is closer than you think
+3. scientists program crispr to fight viruses in human cells
+4. How Mass Spectrometry Can Help Limit Reproducibility Problems
+5. Genetic discovery holds implications for better immunity, longer life
+6. Laboratory-evolved bacteria switch to consuming carbon dioxide for growth
+7. Gene therapy arrives
+8. How resident microbes restructure body chemistry
+9. Conclusion
+10. Bibliography

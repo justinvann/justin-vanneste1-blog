@@ -1,0 +1,21 @@
+---
+title: "Bibliography"
+description: |
+  A short description of the post.
+author:
+  - name: Vanneste Justin
+    url:
+      https//phys.org/news/2019-11-genetic-discovery-implications-immunity-longer.html: {}
+date: 05-01-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+https://www.scientificamerican.com/article/dna-data-storage-is-closer-than-you-think/ seen in October 17 2019  
+https://www.scientificamerican.com/article/scientists-program-crispr-to-fight-viruses-in-human-cells/ seen in October 29 2019  
+https://blogs.scientificamerican.com/observations/how-mass-spectrometry-can-help-limit-reproducibility-problems/ seen in November 11 2019  
+https://phys.org/news/2019-11-genetic-discovery-implications-immunity-longer.html seen in November 25 2020  
+https://www.sciencedaily.com/releases/2019/11/191127161450.htm seen in December 10 2020  
+https://www.stemcelltherapy.me/gene-therapy-arrives-scientific-american/ seen in February 15 2020  
+https://www.sciencedaily.com/releases/2020/02/200226131312.htm seen in February 29 2020  
+
